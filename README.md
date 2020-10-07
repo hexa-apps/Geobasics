@@ -1,4 +1,4 @@
-![geobasics](https://github.com/berkayoruc/geobasics/blob/master/geobasics.png?raw=true)
+![geobasics](https://github.com/hexa-apps/geobasics/blob/master/geobasics.png?raw=true)
 
 # Geobasics
 Fundamental Geodetic Calculations
